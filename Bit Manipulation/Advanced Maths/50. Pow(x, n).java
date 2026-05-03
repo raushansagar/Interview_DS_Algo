@@ -2,7 +2,7 @@
 /*
     50. Pow (x, n)
     Leetcode Link :- https://leetcode.com/problems/powx-n/
- */
+*/
 
 
 // T.C O(log n)
