@@ -1,3 +1,1 @@
-📝 Description:
-
 Structured collection of Data Structures and Algorithms problems solved in Java, focused on mastering problem-solving skills for coding interviews, competitive programming, and core computer science fundamentals.
