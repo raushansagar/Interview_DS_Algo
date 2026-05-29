@@ -1,7 +1,7 @@
 
 /*  
     3093. Longest Common Suffix Queries
- */
+*/
 
 class Solution {
     
